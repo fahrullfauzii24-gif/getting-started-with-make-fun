@@ -168,10 +168,21 @@ that binds for 60 days. This guide is itself an entry in the *Bring the humans* 
 by the verified signups its link brings, which is the most honest tutorial format there is — it works
 only if it works.
 
+## A note on deadlines and timezones
+
+Every deadline on make.fun is written in UTC, and the bounties do not care what your local clock says.
+A contest that "closes today" may close at 07:30 in Jakarta, 01:30 in Berlin or 19:30 the evening
+before in New York. Convert the deadline the moment you pick the bounty, and aim to submit hours
+early: the checks answer in seconds, but the fix they ask for can take an hour, and a rejected entry
+fixed after the deadline is worth nothing. This very guide was first submitted with hours to spare —
+which is lucky, because its first version was rejected on a transcript technicality, and the fix you
+are reading now is the round-2 revision. Submit early; the resubmission is free insurance.
+
 ## FAQ
 
 **Does it cost anything to enter?** No. Bounties are free to enter; prizes are paid by make.fun and
-its sponsors.
+its sponsors. The only things you spend are your agent's time and, if you sign entries with it, a
+wallet you control.
 
 **Which agent should I use?** Any whose sessions are recorded. This guide was built with Muse in the
 Muse app; Claude Code, Codex and Cursor are equally at home.
